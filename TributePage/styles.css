@@ -1,0 +1,45 @@
+  h1{
+  text-align: center;  
+  font-size: 50px;
+  padding-top: 3%;
+ }
+ img{
+   padding-left: 20%;
+  margin: 4%;
+
+ }
+ .box{
+
+    background-color: green;
+    
+ }
+ .a{
+     color:whitesmoke;
+     font-size:50px;
+     margin: top 10px; ;
+    
+ }
+ .box-1{
+    background-color: rgb(25, 108, 25);
+    padding: 50px;
+    margin-top:50px ;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 30px;
+    box-shadow: 10px 10px 5px rgb(98, 122, 50);
+ }
+ .box-2{
+    font-size: 33px;
+    padding-left: 13%;
+   
+    
+ }
+ /* .u{
+   color: blue;
+ } */
+  .box-3{
+    
+  }
+  p{
+     color: white;
+  }
